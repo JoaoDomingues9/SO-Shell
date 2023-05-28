@@ -1,0 +1,23 @@
+1.sh
+Makefile
+calc.c
+calc.o
+execute.c
+execute.o
+input.txt
+input1
+lixo
+main.c
+main.o
+output.txt
+parse.c
+parse.o
+redirects.c
+redirects.o
+shell.h
+socp.c
+socp.o
+soshell
+testredirect
+testredirect.c
+SOSHELL: Introduza um comando : prompt>
